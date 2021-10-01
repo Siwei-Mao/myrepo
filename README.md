@@ -7,7 +7,7 @@
 * Campus North Residential Commons
   * Anyone who's in Trott House as well?
 ![Image of the Reg and the screenshot of part of my application essay]
-(https://github.com/Siwei-Mao/myrepo/blob/main/10441633036310_.pic_hd.jpg)
+(https://raw.githubusercontent.com/Siwei-Mao/myrepo/main/10441633036310_.pic_hd.jpg)
 :arrow_up: Instead of uploading an image of myself, I would like to share the beautiful view of the Reg. :book:
 
 Nice to meet you! Here's the [link to my page!](https://github.com/Siwei-Mao/myrepo)
